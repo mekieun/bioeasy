@@ -168,11 +168,13 @@
      
 ----------
  
-# 6) License 표시 (GPL/MIT 등)
+# 6) License
  
    본 프로젝트는 한국 저작권 위원회에 등록되어 있으며, 무단 수정이나 배포 시 처벌을 받게 될 수 있음을 미리 알립니다. 
 
 # 7) 프로젝트 팀원 정보
-   고현지 nd4616@ewhain.net
-   박기은 mekieun@ewhain.net
-   김유진 komgi0715@ewhain.net
+고현지 nd4616@ewhain.net (https://blog.naver.com/nd4616/222146917764)
+<br>
+박기은 mekieun@ewhain.net (https://roehd.tistory.com/)
+<br>
+김유진 komgi0715@ewhain.net (https://8yujin-kim8.tistory.com/entry/BIOEASY)
