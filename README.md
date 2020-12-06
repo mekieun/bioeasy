@@ -163,7 +163,7 @@
    웹페이지 디자인 참고용 포트폴리오
    >https://www.pinterest.co.kr/search/pins/?rs=ac&len=2&q=web%20portfolio&eq=web%20port&etslf=4535&term_meta[]=web%7Cautocomplete%7C0&term_meta[]=portfolio%7Cautocomplete%7C0
      
--
+----------
  
 # 6) License 표시 (GPL/MIT 등)
  
