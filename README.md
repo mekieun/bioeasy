@@ -27,18 +27,13 @@
 하지만 Google Scholar와 Pubmed NCBI에서 논문을 검색하면 논문 저자, 논문 발행 연도, 논문 원문 링크 등의 정보만 제공되고 있어 선행연구로부터의 인사이트 도출을 도와주는 서비스는 부족한 상황입니다. 이에 따라 Bio 분야를 연구하려는 모든 연구자들의 선행연구 인사이트 도출을 도와주는 웹 어플리케이션, BIOEASY를 제언드립니다!
 
 
-<table border="1">
-   <th>경쟁사</th>
-   <th>검색 시 화면</th>
-   <tr><!-- 첫번째 줄 시작 -->
-       <td>Google Scholar</td>
-       <td>![KakaoTalk_20201206_195543407](https://user-images.githubusercontent.com/66764321/101278280-a6d28480-37fd-11eb-9a21-f61d063eaa12.png)</td>
-   </tr><!-- 첫번째 줄 끝 -->
-   <tr><!-- 두번째 줄 시작 -->
-       <td>Pubmed NCBI</td>
-       <td>![KakaoTalk_20201206_195551513](https://user-images.githubusercontent.com/66764321/101278286-b6ea6400-37fd-11eb-86d1-ba92a32a0640.png)</td>
-   </tr><!-- 두번째 줄 끝 -->
-    </table>
+<div>
+Google Scholar
+<img width="300" src="![KakaoTalk_20201206_195543407](https://user-images.githubusercontent.com/66764321/101278280-a6d28480-37fd-11eb-9a21-f61d063eaa12.png)">
+
+Pubmed NCBI
+<img width="300" src="![KakaoTalk_20201206_195551513](https://user-images.githubusercontent.com/66764321/101278286-b6ea6400-37fd-11eb-86d1-ba92a32a0640.png)">
+</div>
 
 
 
