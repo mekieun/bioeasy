@@ -66,9 +66,7 @@
    전체 HTML 구성도는 아래와 같습니다.
 
 <div style="text-align : center;">
-
-     <img src="https://user-images.githubusercontent.com/66764321/101278721-cdde8580-3800-11eb-839b-cdec6cf51a01.png">
-
+<img src="https://user-images.githubusercontent.com/66764321/101278721-cdde8580-3800-11eb-839b-cdec6cf51a01.png">
 </div>
 
         
