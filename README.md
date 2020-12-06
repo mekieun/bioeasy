@@ -29,10 +29,13 @@
 
 <div>
 Google Scholar
+ <br>  
 <img width="300" src="https://user-images.githubusercontent.com/66764321/101278280-a6d28480-37fd-11eb-9a21-f61d063eaa12.png">
-
+<br>
 Pubmed NCBI
+<br>
 <img width="300" src="https://user-images.githubusercontent.com/66764321/101278286-b6ea6400-37fd-11eb-86d1-ba92a32a0640.png">
+
 </div>
 
 
