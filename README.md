@@ -90,7 +90,10 @@
 ### third.html
 ![KakaoTalk_20201206_195646871](https://user-images.githubusercontent.com/66764321/101278411-6aebef00-37fe-11eb-98f5-3fe24d201cbb.png)
 
-![KakaoTalk_20201206_195653583](https://user-images.githubusercontent.com/66764321/101278680-7d672800-3800-11eb-9031-bdfe04ad8f19.png)
+<div style="text-align : center;">
+<img src="https://user-images.githubusercontent.com/66764321/101278680-7d672800-3800-11eb-9031-bdfe04ad8f19.png">
+</div>
+
 
     def third(request):
         data = request.GET['theid']
@@ -120,7 +123,9 @@
             조회한 논문에서 사용자가 추가한 메모 list 조회 (third.html)
             조회한 논문에서 사용자가 메모 추가하기 (add_memo.html)
 
-![KakaoTalk_20201206_195701513](https://user-images.githubusercontent.com/66764321/101278735-f1a1cb80-3800-11eb-8e0e-56ebddbcf41b.png)
+<div style="text-align : center;">
+<img src="https://user-images.githubusercontent.com/66764321/101278735-f1a1cb80-3800-11eb-8e0e-56ebddbcf41b.png">
+</div>
 
    각 북마크, 메모, 포스트 모델은 참조 베이스가 되는 논문이 존재합니다. 따라서, 논문 고유의 아이디를 attribute로 가질 수 있도록 설계했습니다. 각 모델의 url, pmc_id, base_id, base_title은 논문 고유의 id가 들어있는 attribute입니다. 질문을 포스트할 때 댓글로 달 수 있도록 하는 Comment모델은 Post모델을 외래키로 참조하고 있습니다. 
  
